@@ -1,2 +1,2 @@
 # butterflytales
-one html5 game created by egret.
+一款基于egret引擎开发的html5漫画交互式游戏
