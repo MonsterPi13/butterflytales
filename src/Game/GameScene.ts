@@ -32,7 +32,7 @@ class GameScene extends egret.DisplayObjectContainer{
 
   private initView () {
     this.initChapter1();
-    // SceneController.GameEnd("end_branch_01");
+    // SceneController.GameEnd("end_branch_07");
   }
 
   private initChapter1 () {

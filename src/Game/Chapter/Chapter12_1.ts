@@ -62,8 +62,8 @@ class Chapter12_1 extends egret.DisplayObjectContainer {
           },
           dialog1: {
             picName: "ch12_1_02_01_png",
-            x_axis: 430,
-            y_axis: 90,
+            x_axis: 390,
+            y_axis: 20,
             textWidth: 207,
             textHeight: 100,
             text_x_axis: 90,

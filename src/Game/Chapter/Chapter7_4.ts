@@ -28,7 +28,8 @@ class Chapter7_4 extends egret.DisplayObjectContainer {
     
     let cha7_4_01_options: Object = {
       mainPic: {
-        picName: "ch7_4_01_jpg"
+        picName: "ch7_4_01_jpg",
+        mainPicTime: 2000
       },
       dialog1: {
         picName: "ch7_4_01_01_png",

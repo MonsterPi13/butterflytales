@@ -47,7 +47,7 @@ class Chapter8_1 extends egret.DisplayObjectContainer {
         let cha8_1_02_options = {
           pic: "ch8_1_02_png",
           tips_pic: "",
-          music: "",
+          music: "ch4_01_mp3",
           animationType: ""
         }
         this.cha8_1_02 = new Comic2(cha8_1_02_options);
@@ -59,7 +59,7 @@ class Chapter8_1 extends egret.DisplayObjectContainer {
         let cha8_1_03_options = {
           pic: "ch8_1_03_png",
           tips_pic: "",
-          music: "",
+          music: "ch10_2_01_mp3",
           animationType: ""
         }
         this.cha8_1_03 = new Comic2(cha8_1_03_options);

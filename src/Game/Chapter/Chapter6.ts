@@ -122,7 +122,8 @@ class Chapter6 extends egret.DisplayObjectContainer {
         this.removeChild(this.mainContent);
         let cha6_04_options: Object = {
           mainPic: {
-            picName: "ch6_04_jpg"
+            picName: "ch6_04_jpg",
+            mainPicTime: 2000
           },
           dialog1: {
             picName: "ch6_04_01_png",

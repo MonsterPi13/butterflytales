@@ -30,7 +30,8 @@ class Chapter10_3 extends egret.DisplayObjectContainer {
       pic: "ch10_3_01_jpg",
       tips_pic: "",
       music: "ch10_3_01_mp3",
-      animationType: ""
+      animationType: "",
+      mainPicTime: 2000
     }
     this.cha10_3_01 = new Comic2(cha10_3_01_options);
     this.mainContent.addChild(this.cha10_3_01);
